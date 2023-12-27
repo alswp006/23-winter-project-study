@@ -56,8 +56,8 @@
 
 ### 3일차
 
-- [ ]  [git 사용법 공부](https://www.inflearn.com/course/%EA%B9%83-%EC%9E%85%EB%AC%B8#curriculum) 섹션 3, 4(2시간 10분)
-- [ ]  [dart 언어 공부](https://www.inflearn.com/course/dart-%EC%96%B8%EC%96%B4-%EC%9E%85%EB%AC%B8#curriculum) 4, 5강 (1시간 23분)
+- [x]  [git 사용법 공부](https://www.inflearn.com/course/%EA%B9%83-%EC%9E%85%EB%AC%B8#curriculum) 섹션 3, 4(2시간 10분)
+- [x]  [dart 언어 공부](https://www.inflearn.com/course/dart-%EC%96%B8%EC%96%B4-%EC%9E%85%EB%AC%B8#curriculum) 4, 5강 (1시간 23분)
 
 ### 4일차
 
