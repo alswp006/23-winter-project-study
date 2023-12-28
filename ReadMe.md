@@ -61,8 +61,8 @@
 
 ### 4일차
 
-- [ ]  [git 사용법 공부 섹션](https://www.inflearn.com/course/%EA%B9%83-%EC%9E%85%EB%AC%B8#curriculum) 5(1시간 51분)
-- [ ]  [데이터베이스 공부](https://www.inflearn.com/course/%EC%9B%B9%EA%B0%9C%EB%B0%9C-%ED%92%80%EC%8A%A4%ED%83%9D-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EA%B8%B0%EC%B4%88#curriculum) 데이터베이스 설계 (2시간 36분)
+- [x]  [git 사용법 공부 섹션](https://www.inflearn.com/course/%EA%B9%83-%EC%9E%85%EB%AC%B8#curriculum) 5(1시간 51분)
+- [x]  [데이터베이스 공부](https://www.inflearn.com/course/%EC%9B%B9%EA%B0%9C%EB%B0%9C-%ED%92%80%EC%8A%A4%ED%83%9D-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EA%B8%B0%EC%B4%88#curriculum) 데이터베이스 설계 (2시간 36분)
 
 ### 5일차
 
@@ -72,12 +72,13 @@
 ### 6일차
 
 - [ ]  [데이터베이스 공부](https://www.inflearn.com/course/%EC%9B%B9%EA%B0%9C%EB%B0%9C-%ED%92%80%EC%8A%A4%ED%83%9D-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EA%B8%B0%EC%B4%88#curriculum) 당근마켓 서비스 분석하기 설계 (48분)
-- [ ]  [플러터 클론 코딩](https://nomadcoders.co/flutter-for-beginners) 3, 4강 (2시간 16분)
+- [ ]  [데이터베이스 공부](https://www.inflearn.com/course/%EC%9B%B9%EA%B0%9C%EB%B0%9C-%ED%92%80%EC%8A%A4%ED%83%9D-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EA%B8%B0%EC%B4%88#curriculum) 넷플릭스 서비스 분석하기 설계 (1시간 6분)
 
 ### 7일차
 
-- [ ]  [데이터베이스 공부](https://www.inflearn.com/course/%EC%9B%B9%EA%B0%9C%EB%B0%9C-%ED%92%80%EC%8A%A4%ED%83%9D-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EA%B8%B0%EC%B4%88#curriculum) 넷플릭스 서비스 분석하기 설계 (1시간 6분)
-- [ ]  [플러터 클론 코딩](https://nomadcoders.co/flutter-for-beginners) 5, 6강 (3시간)
+
+- [ ] [플러터 클론 코딩](https://nomadcoders.co/flutter-for-beginners) 3, 4강 (2시간 16분)
+
 
 ### 8일차
 
