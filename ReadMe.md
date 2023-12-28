@@ -67,7 +67,6 @@
 ### 5일차
 
 - [ ]  [데이터베이스 공부](https://www.inflearn.com/course/%EC%9B%B9%EA%B0%9C%EB%B0%9C-%ED%92%80%EC%8A%A4%ED%83%9D-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EA%B8%B0%EC%B4%88#curriculum) SQL 설계 (2시간 3분)
-- [ ]  [플러터 클론 코딩](https://nomadcoders.co/flutter-for-beginners) 1, 2강 (1시간 28분)
 
 ### 6일차
 
@@ -77,6 +76,7 @@
 ### 7일차
 
 
+- [ ]  [플러터 클론 코딩](https://nomadcoders.co/flutter-for-beginners) 1, 2강 (1시간 28분)
 - [ ] [플러터 클론 코딩](https://nomadcoders.co/flutter-for-beginners) 3, 4강 (2시간 16분)
 
 
