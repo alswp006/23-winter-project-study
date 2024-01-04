@@ -166,3 +166,24 @@ ON Products.CategoryID = Categories.CategoryID;
 ```
 
 - 양테이블의 카테고리 ID가 같은 값들을 가져와서 합친다.
+- Inner : on으로 조건을 주어 양 테이블에서 해당 조건이 만족하는 데이터만 가져와서 합친다
+- Left : 왼쪽 테이블은 모두 가져오고 on으로 조건을 주어 오른쪽 테이블에서 해당 조건이 만족하는 데이터만 가져와서 합친다
+- Right : 오른쪽 테이블은 모두 가져오고 on으로 조건을 주어 왼쪽 테이블에서 해당 조건이 만족하는 데이터만 가져와서 합친다
+- Cross : 양 테이블의 모든 데이터를 합친다.
+
+### INNER JOIN 실전 활용
+
+```sql
+SELECT T1.*, T2.CategoryName FROM Products T1, Categories T2 
+WHERE T1.CategoryID = T2.CategoryID;
+```
+
+- Inner join과 같은 결과
+
+```sql
+SELECT T1.*, T2.CategoryName, T3.SupplierName 
+FROM Products T1, Categories T2,Suppliers T3 
+WHERE T1.CategoryID = T2.CategoryID AND T1.SupplierID = T3.SupplierID;
+```
+
+- 3개의 테이블 합치기
