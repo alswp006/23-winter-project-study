@@ -71,45 +71,39 @@
 ### 6일차
 
 - [x]  [데이터베이스 공부](https://www.inflearn.com/course/%EC%9B%B9%EA%B0%9C%EB%B0%9C-%ED%92%80%EC%8A%A4%ED%83%9D-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EA%B8%B0%EC%B4%88#curriculum) 당근마켓 서비스 분석하기 설계 (48분)
-- [ ]  [데이터베이스 공부](https://www.inflearn.com/course/%EC%9B%B9%EA%B0%9C%EB%B0%9C-%ED%92%80%EC%8A%A4%ED%83%9D-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EA%B8%B0%EC%B4%88#curriculum) 넷플릭스 서비스 분석하기 설계 (1시간 6분)
+- [x]  [데이터베이스 공부](https://www.inflearn.com/course/%EC%9B%B9%EA%B0%9C%EB%B0%9C-%ED%92%80%EC%8A%A4%ED%83%9D-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EA%B8%B0%EC%B4%88#curriculum) 넷플릭스 서비스 분석하기 설계 (1시간 6분)
+
 
 ### 7일차
 
-
-- [ ]  [플러터 클론 코딩](https://nomadcoders.co/flutter-for-beginners) 1, 2강 (1시간 28분)
-- [ ] [플러터 클론 코딩](https://nomadcoders.co/flutter-for-beginners) 3, 4강 (2시간 16분)
-
-
-### 8일차
-
 - [ ]  [웹벡엔드](https://www.boostcourse.org/web326/joinLectures/28762) 1강, 프로젝트 A
 
-### 9일차
+### 8일차
 
 - [ ]  [웹벡엔드](https://www.boostcourse.org/web326/joinLectures/28762) 2강, 프로젝트 B
 - [ ]  8일차 복습
 
-### 10일차
+### 9일차
 
 - [ ]  [웹벡엔드](https://www.boostcourse.org/web326/joinLectures/28762) 3강
 - [ ]  9, 10일차 복습
 
-### 11일차
+### 10일차
 
 - [ ]  [웹벡엔드](https://www.boostcourse.org/web326/joinLectures/28762) 4강, 프로젝트 D
 - [ ]  10일차 복습
 
-### 12일차
+### 11일차
 
 - [ ]  [웹벡엔드](https://www.boostcourse.org/web326/joinLectures/28762) 5강, 프로젝트 E
 - [ ]  11일차 복습
 
-### 13일차
+### 12일차
 
 - [ ]  [웹벡엔드](https://www.boostcourse.org/web326/joinLectures/28762) 6강, 프로젝트 F
 - [ ]  12일차 복습
 
-### 14일차
+### 13일차
 
 - [ ]  [플러터 + 파이어베이스 클론 코딩](https://www.inflearn.com/course/flutter-netflix-clone-app#reviews)
 - [ ]  [git 요약 강좌](https://www.inflearn.com/course/30%EB%B6%84-%EC%8B%9C%EC%A6%8C4-%EA%B9%83%ED%97%88%EB%B8%8C#curriculum)
