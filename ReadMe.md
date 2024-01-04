@@ -4,7 +4,7 @@
 - 공부 기간
   - 민제 : 12/21 ~ 1/3
   - 정환, 정민 : 12/26 ~ 1/5
-- 프로젝트는 1월 6일부터 시작하려 합니다!
+- 프로젝트는 1월 10일부터 시작하려 합니다!
 ## 공부 규칙
 - 강의 듣고 복습하면서 내용 정리하기
 - 매일 공부하기 전 전날 내용 복습 먼저 하고 공부하기
@@ -66,11 +66,11 @@
 
 ### 5일차
 
-- [ ]  [데이터베이스 공부](https://www.inflearn.com/course/%EC%9B%B9%EA%B0%9C%EB%B0%9C-%ED%92%80%EC%8A%A4%ED%83%9D-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EA%B8%B0%EC%B4%88#curriculum) SQL 설계 (2시간 3분)
+- [x]  [데이터베이스 공부](https://www.inflearn.com/course/%EC%9B%B9%EA%B0%9C%EB%B0%9C-%ED%92%80%EC%8A%A4%ED%83%9D-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EA%B8%B0%EC%B4%88#curriculum) SQL 설계 (2시간 3분)
 
 ### 6일차
 
-- [ ]  [데이터베이스 공부](https://www.inflearn.com/course/%EC%9B%B9%EA%B0%9C%EB%B0%9C-%ED%92%80%EC%8A%A4%ED%83%9D-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EA%B8%B0%EC%B4%88#curriculum) 당근마켓 서비스 분석하기 설계 (48분)
+- [x]  [데이터베이스 공부](https://www.inflearn.com/course/%EC%9B%B9%EA%B0%9C%EB%B0%9C-%ED%92%80%EC%8A%A4%ED%83%9D-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EA%B8%B0%EC%B4%88#curriculum) 당근마켓 서비스 분석하기 설계 (48분)
 - [ ]  [데이터베이스 공부](https://www.inflearn.com/course/%EC%9B%B9%EA%B0%9C%EB%B0%9C-%ED%92%80%EC%8A%A4%ED%83%9D-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EA%B8%B0%EC%B4%88#curriculum) 넷플릭스 서비스 분석하기 설계 (1시간 6분)
 
 ### 7일차
