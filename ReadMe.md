@@ -76,8 +76,11 @@
 
 ### 7일차
 
-- [ ]  [웹벡엔드](https://www.boostcourse.org/web326/joinLectures/28762) 1강, 프로젝트 A
-
+- [x]  [웹벡엔드](https://www.boostcourse.org/web326/joinLectures/28762) 1강, 프로젝트 A
+- 이 곳부터 강의의 선수과정이 잘못되어 웹 프로그래밍(풀스택)강의를 먼저 듣고 오려합니다!
+### 중간 과정
+- [ ] [웹 프로그래밍(풀스택) - 1. 웹 프로그래밍 기초](https://www.boostcourse.org/web316/lecture/16667?isDesc=false)
+- [ ] [웹 프로그래밍(풀스택) - 2. DB 연결 웹 앱](https://www.boostcourse.org/web316/joinLectures/12954?isDesc=false)
 ### 8일차
 
 - [ ]  [웹벡엔드](https://www.boostcourse.org/web326/joinLectures/28762) 2강, 프로젝트 B
