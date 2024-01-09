@@ -1,5 +1,3 @@
-# HTML 태그
-
 - HTML 버전이 업그레이드 되면서 태그가 새로 추가되기도 삭제되기도 한다.
 - 실제로 대다수의 웹 페이지는 대략 25개 정도의 태그가 사용된다.
 - html, head, body, title등 기본적으로 들어가는 태그들도 다 포함이 된다.
@@ -193,3 +191,13 @@ traget 속성은 링크된 리소스를 어디에 표시할지 나타내는 속�
 - reset: form의 값을 초기화 하는 버튼
 - image: 이미지의 삽입할 수 있는 버튼
 - button: 아무 기능이 없는 버튼
+
+```html
+<form action="./test.html">
+메시지: <input type="text" name="message"><br>
+<input type="submit">
+<input type="reset">
+<input type="image" src="http://placehold.it/50x50?text=click" alt="click" width="50" height="50">
+<input type="button" value="버튼">
+</form>
+```
