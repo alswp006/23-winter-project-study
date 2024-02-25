@@ -79,37 +79,37 @@
 - [x]  [웹벡엔드](https://www.boostcourse.org/web326/joinLectures/28762) 1강, 프로젝트 A
 - 이 곳부터 강의의 선수과정이 잘못되어 웹 프로그래밍(풀스택)강의를 먼저 듣고 오려합니다!
 ### 중간 과정
-- [ ] [웹 프로그래밍(풀스택) - 1. 웹 프로그래밍 기초](https://www.boostcourse.org/web316/lecture/16667?isDesc=false)
-- [ ] [웹 프로그래밍(풀스택) - 2. DB 연결 웹 앱](https://www.boostcourse.org/web316/joinLectures/12954?isDesc=false)
+- [x] [웹 프로그래밍(풀스택) - 1. 웹 프로그래밍 기초](https://www.boostcourse.org/web316/lecture/16667?isDesc=false)
+- [x] [웹 프로그래밍(풀스택) - 2. DB 연결 웹 앱](https://www.boostcourse.org/web316/joinLectures/12954?isDesc=false)
 ### 8일차
 
-- [ ]  [웹벡엔드](https://www.boostcourse.org/web326/joinLectures/28762) 2강, 프로젝트 B
-- [ ]  8일차 복습
+- [x]  [웹벡엔드](https://www.boostcourse.org/web326/joinLectures/28762) 2강, 프로젝트 B
+- [x]  8일차 복습
 
 ### 9일차
 
-- [ ]  [웹벡엔드](https://www.boostcourse.org/web326/joinLectures/28762) 3강
-- [ ]  9, 10일차 복습
+- [x]  [웹벡엔드](https://www.boostcourse.org/web326/joinLectures/28762) 3강
+- [x]  9, 10일차 복습
 
 ### 10일차
 
-- [ ]  [웹벡엔드](https://www.boostcourse.org/web326/joinLectures/28762) 4강, 프로젝트 D
-- [ ]  10일차 복습
+- [x]  [웹벡엔드](https://www.boostcourse.org/web326/joinLectures/28762) 4강, 프로젝트 D
+- [x]  10일차 복습
 
 ### 11일차
 
-- [ ]  [웹벡엔드](https://www.boostcourse.org/web326/joinLectures/28762) 5강, 프로젝트 E
-- [ ]  11일차 복습
+- [x]  [웹벡엔드](https://www.boostcourse.org/web326/joinLectures/28762) 5강, 프로젝트 E
+- [x]  11일차 복습
 
 ### 12일차
 
-- [ ]  [웹벡엔드](https://www.boostcourse.org/web326/joinLectures/28762) 6강, 프로젝트 F
-- [ ]  12일차 복습
+- [x]  [웹벡엔드](https://www.boostcourse.org/web326/joinLectures/28762) 6강, 프로젝트 F
+- [x]  12일차 복습
 
 ### 13일차
 
-- [ ]  [플러터 + 파이어베이스 클론 코딩](https://www.inflearn.com/course/flutter-netflix-clone-app#reviews)
-- [ ]  [git 요약 강좌](https://www.inflearn.com/course/30%EB%B6%84-%EC%8B%9C%EC%A6%8C4-%EA%B9%83%ED%97%88%EB%B8%8C#curriculum)
+- [x]  [플러터 + 파이어베이스 클론 코딩](https://www.inflearn.com/course/flutter-netflix-clone-app#reviews)
+- [x]  [git 요약 강좌](https://www.inflearn.com/course/30%EB%B6%84-%EC%8B%9C%EC%A6%8C4-%EA%B9%83%ED%97%88%EB%B8%8C#curriculum)
 
 ## 할 일 목록 - 정환, 정민
 
